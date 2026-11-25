@@ -1,0 +1,14 @@
+publication:
+  OutputFilename: LumenAdmin
+  PublicationName: Lumen 管理ガイド
+  Metadata: sandbox,lumenadmin
+  ProductVersion: '2603'
+  Language: ja-JP
+  PublicationAuthor: docs@example.test
+  Category: Lumen
+  SubCategory: Guides
+  ProductFamily: Lumen Suite
+  Product: Lumen Admin
+  ContentType: Product Documentation
+  DateCreated: 2026-01-15
+  DateUpdated: 2026-11-02
