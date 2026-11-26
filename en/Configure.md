@@ -2,10 +2,11 @@
 
 # Configure the service
 
-Set the polling interval, choose a storage region and turn on audit logging for Lumen Admin.
+Set the polling interval, choose a storage region and turn on audit logging for Lumen Admin. Merge test edit.
 
 :::note
 This is placeholder text for the docs portal sandbox. It describes no real product.
+
 :::
 
 ## Steps
